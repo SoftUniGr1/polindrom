@@ -1,0 +1,10 @@
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\bin\Debug\Palindrom 2.exe.config
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\bin\Debug\Palindrom 2.exe
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\bin\Debug\Palindrom 2.pdb
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom 2.csprojResolveAssemblyReference.cache
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom_2.Form1.resources
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom_2.Properties.Resources.resources
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom 2.csproj.GenerateResource.Cache
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom 2.csproj.CoreCompileInputs.cache
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom 2.exe
+C:\Users\Vasilena\source\repos\Palindrom 2\Palindrom 2\obj\Debug\Palindrom 2.pdb
