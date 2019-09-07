@@ -1,0 +1,57 @@
+Допълинителни задачи
+Задача 9
+sbyte n = sbyte.Parse(Console.ReadLine());
+            string word = "";
+            for (sbyte i = 1; i <= n; i++)
+            {
+                char letter = char.Parse(Console.ReadLine());
+                word = word + letter;
+            }
+            Console.WriteLine(word);
+
+Задача 12
+sbyte n = sbyte.Parse(Console.ReadLine());
+            decimal v = 0.0M;
+            decimal bigV = 0.0M;
+            string bigModel = "";
+            for(sbyte i = 1; i <= n; i++)
+            {
+                string model = Console.ReadLine();
+                decimal r = decimal.Parse(Console.ReadLine());
+                int h = int.Parse(Console.ReadLine());
+                v = (decimal)Math.PI * r * r * h;
+                if (bigV < v)
+                {
+                    bigV = v;
+                    bigModel = model;
+                }
+
+
+
+
+Задача 15
+sbyte cent = sbyte.Parse(Console.ReadLine());
+            int years = cent * 100;
+            uint days = (uint)(years * 365.2422);
+            uint hours = days * 24;
+            ulong mins = hours * 60;
+            ulong sec = mins * 60;
+            ulong milisec = sec * 1000;
+            ulong microsec = milisec * 1000;
+            ulong nano = microsec * 1000;
+            
+            Console.WriteLine($"{cent} centuries = {years} years = {days} days = {hours} hours = " +
+            $"{mins} minutes = {sec} seconds = {milisec} miliseconds = {microsec} microseconds = {nano} nanoseconds");
+Задача 18
+decimal a = decimal.Parse(Console.ReadLine());
+            decimal b = decimal.Parse(Console.ReadLine());
+            decimal eps = 0.000001M;
+            decimal diff = Math.Abs(a - b);
+            if (diff == eps || diff > eps)
+            {
+                Console.WriteLine("False");
+            }
+            else if (diff < eps)
+            {
+                Console.WriteLine("True");
+            }
